@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**fwouts/fwouts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm François, the developer happiness engineer.
 
-Here are some ideas to get you started:
+I left my job in early 2021 to focus on building developer tools such as [Preview.js](https://previewjs.com).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm hoping to build a sustainable income from my open-source work, so I can continue doing what I love and helping improve developers' workflows.
+
+[🐤 Follow me on Twitter](https://twitter.com/fwouts)
+
+[💙 Sponsor me on GitHub](https://github.com/sponsors/fwouts)
+
+## Sponsors
+
+<p align="center">
+  <a href="https://github.com/sponsors/fwouts">
+    <img src='https://cdn.jsdelivr.net/gh/fwouts/sponsors/sponsorkit/sponsors.svg'/>
+  </a>
+</p>
